@@ -33,7 +33,7 @@
         android:layout_alignParentRight="true"
         android:layout_below="@+id/tvCaption"
         android:adjustViewBounds="true"
-        android:scaleType="matrix"
+        android:scaleType="center"
         android:src="@drawable/ic_launcher" />
 
     <ImageButton
