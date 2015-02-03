@@ -13,7 +13,7 @@ Following are the REQUIRED features:
         Color filter (black, blue, brown, gray, green, etc...)
         Type (faces, photo, clip art, line art)
         Site (espn.com)
-        
+  
    4. Subsequent searches will have any filters applied to the search results
    
    5.User can tap on any image in results to see the image full-screen
@@ -23,5 +23,10 @@ Following are the REQUIRED features:
    Following were the optional features:
    
    1. Replace Filter Settings Activity with a lightweight modal overlay
+
+
+The Appp can be seen in the gif below:
+https://github.com/Elizajoe/GoogleImageSearch/blob/master/GridImageSearch.gif
+
 
 
